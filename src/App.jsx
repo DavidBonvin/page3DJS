@@ -8,6 +8,7 @@ import {
   StarsCanvas,
   Tech,
   Works,
+  CV,
 } from "./components";
 
 import { BrowserRouter } from "react-router-dom";
@@ -18,6 +19,7 @@ const App = () => {
       <BrowserRouter>
         <div className="relative z-0 bg-primary">
           <div className="bg-hero-pattern bg-cover bg-no-repeat bg-center">
+          <CV/>
             <Navbar />
             <Hero />
           </div>
