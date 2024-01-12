@@ -64,7 +64,7 @@ const Navbar = () => {
           ))}
         <li className="text-white font-poppins font-medium cursor-pointer text-[16px]" >
 
-        <a href="/public/CV_David_Cordoba 2024.pdf" target="_blank">CV</a>
+        <a href="/public/CV_David_Cordoba_2024.pdf">CV</a>
         </li>
         </ul>
           </div>
